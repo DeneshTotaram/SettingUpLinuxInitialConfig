@@ -1,0 +1,3 @@
+Create bash aliases for updating and upgrading the system
+
+Maybe some git aliases
